@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://easynomad.onrender.com/"><img src="" alt="EasyNomad" width="200"></a>
+  
   <br>
   EasyNomad
   <br>
